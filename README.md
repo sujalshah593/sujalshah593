@@ -12,6 +12,3 @@
 ![](https://streak-stats.demolab.com/?user=sujalshah593&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sujalshah593&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=sujalshah593&icon=8&color=1)](https://visitcount.itsvg.in)
-
